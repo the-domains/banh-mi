@@ -1,0 +1,28 @@
+name: Bánh Mì
+favicon: null
+layout_spectrum: 0.24227622663602233
+typography_spectrum: 0.10693396790884435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06512408168055117
+  lightness: 0.7711962449830025
+  saturation: 0.054474371019750834
+  rhythmicContrast: 0.6161818066611886
+purpose: []
