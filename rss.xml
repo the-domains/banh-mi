@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vietnamese street food]]></title>
         <description><![CDATA[Vietnamese street food]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/banh-mi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 20:52:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 20:56:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/banh-mi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44193f61-5c42-4c5b-a17d-9bbbbbf7b930.jpg">]]></description>
-            <link>undefined34da0700-aec7-47db-91ac-f31582d9b9fa/index.html</link>
+            <link>https://thegrid.ai/banh-mi/34da0700-aec7-47db-91ac-f31582d9b9fa/index.html</link>
             <guid isPermaLink="false">34da0700-aec7-47db-91ac-f31582d9b9fa</guid>
-            <pubDate>Tue, 15 Dec 2015 20:51:47 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 20:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
