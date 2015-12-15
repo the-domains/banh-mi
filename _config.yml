@@ -1,7 +1,7 @@
 name: Bánh Mì
 favicon: null
-layout_spectrum: 0.24227622663602233
-typography_spectrum: 0.10693396790884435
+layout_spectrum: 0.27346
+typography_spectrum: 0.00395
 title: Vietnamese street food
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.06512408168055117
+    - '#ffffff'
+    - '#614225'
+    - '#c5b9ae'
+    - '#a08e7c'
+    - '#79a0d1'
+  brandStrength: 0.8125
   lightness: 0.7711962449830025
   saturation: 0.054474371019750834
   rhythmicContrast: 0.6161818066611886
